@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VideoFilter</string>
+
+    <string name="device_not_supported">Device not supported</string>
+    <string name="device_not_supported_message">Video is not supported on your device</string>
+    <string name="empty_command_toast">You cannot execute empty command</string>
+    <string name="apply_loader">Please wait...                   </string>
+</resources>
